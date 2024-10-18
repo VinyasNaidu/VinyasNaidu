@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Giri Manohar Vemula</h1>
+<h2>👨‍💻 About Me</h2>
+<p align="center"> Myself, a dedicated Master's student specializing in <b>Data Analytical Engineering</b> at <b>Northeastern University</b>. My academic journey began with a strong foundation in <b>computer science</b> from <b>Vellore Institute of Technology</b>. Fueled by a passion for data and its potential to influence decisions. Being a technology-enthusiast, I love to work in a professional environment where I can contribute myself and enrich my analytical skills according to the latest technologies and work towards achieving the organizational goals. I'm deeply enthusiastic about harnessing technology to solve complex problems and drive innovation. </p>
+<h3 align ="center"> Have a look at my website: https://manoharvit.github.io/Manohar.github.io/ </h3>
+<p align="center"> My skills span across <b>Data Wrangling</b>, <b>Statistical modeling</b>, <b>Data Integration</b>, <b>Machine learning</b>, and <b>Data visualization</b> which are enriched by academic projects and my experience as a <b>Python Web Developer Intern</b>. Skilled in <b>R (dplyr, tidyr, readr, caret)</b>, <b>Python (Pandas, numpy, Scikit-learn, Tensor-flow, Seaborn)</b>, and <b>Java</b>, I excel in transforming complex data into meaningful insights. My toolkit also includes Data Analytical Tools like <b>Microsoft Office Suite</b>, <b>R Studio</b>, <b>Power BI</b>, <b>Tableau</b>, <b>Flourish</b>, and Data Engineering Tools such as <b>MySQL</b>, <b>MongoDB</b>, <b>AWS</b>, <b>Cloud SQL</b>, and <b>Snowflake</b>. These technical skills, combined with soft skills like effective communication, adaptability, problem-solving, collaboration, critical thinking, and presentation abilities, empower me to deliver comprehensive data solutions. </p>
 
-<!--
-**VinyasNaidu/VinyasNaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> In my repositories, you'll find a diverse array of projects, ranging from <b>predictive analytics models</b> and <b>customer segmentation strategies</b> for Business Analysis, <b>data quality enhancement</b> and <b>ETL pipeline optimization</b> for Data Engineering, and from complex statistical analysis and <b>machine learning models</b> for Data Science, to data visualization and trend analysis for Data Analysis. These projects underscore my ability to collaborate effectively, communicate insights clearly to stakeholders, and contribute meaningfully to data-driven decision-making processes. </p>
 
-Here are some ideas to get you started:
+<p align="center"> I welcome everyone to look into my work, where each repository stands as evidence of my constant commitment to the field of data. If you are seeking interest in collaborating, you are welcome to fork or contribute to my projects. Join me in engaging with and making valuable contributions to the ever-evolving realm of data science. Together, we can enhance our knowledge and skills in this captivating discipline. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🔧 Technologies & Tools</h2>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+                                                                                                                                            
+<h2 align="left">Certificates and Extracurricular Activities</h2>
+<ul>
+  <li>Special Recognition in Data Mining Hackathon (US Offense Types)</li>
+  <li>Office Bearer and Poster Designer, Robotics Club, VIT University</li>
+  <li>Certificate of Merit, VIT-AP Engineering Clinics Projects</li>
+</ul>
+
+<h2 align="center">✉️ Contact Me</h2>
+<p align="center">
+  📫 How to reach me: <a href="mailto:girimanohar.v@gmail.com">girimanohar.v@gmail.com</a>
+</p>
+<p align="center">
+<a href="https://linkedin.com/in/linkedin.com/in/manohar511/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin.com/in/manohar511/" height="30" width="40" /></a>
+</p>
