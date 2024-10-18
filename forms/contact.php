@@ -1,7 +1,7 @@
 <?php
-  $receiving_email_address = 'vemula.gi@northeastern.edu';
+  $receiving_email_address = 'karri.vi@northeastern.edu';
 
-  if( file_exists($php_email_form = '/Users/girimanoharv/Downloads/Portfolio Personal/assets/vendor/php-email-form/php-email-form.php' )) {
+  if( file_exists($php_email_form = '/Users/vinyas/Downloads/Portfolio Personal/assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
   } else {
     die( 'Unable to load the "PHP Email Form" Library!');
