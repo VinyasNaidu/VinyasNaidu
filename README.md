@@ -13,8 +13,10 @@
                                                                                                                                             
 <h2 align="left">Certificates and Extracurricular Activities</h2>
 <ul>
-  <li>Special Recognition in Data Mining Hackathon (US Offense Types)</li>
-  <li>Certificate of Merit, Engineering Clinics Projects</li>
+  <li>ZS Recognise Award</li>
+  <li>Machine Learning & Data Analytics</li>
+  <li>SQL (Advanced) Certificate (US Offense Types)</li>
+  <li>Fundamentals of AI & ML: Introduction to Artificial Intelligence</li>
 </ul>
 
 <h2 align="center">✉️ Contact Me</h2>
