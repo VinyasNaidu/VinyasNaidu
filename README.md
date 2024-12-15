@@ -15,7 +15,7 @@
 <ul>
   <li>ZS Recognise Award</li>
   <li>Machine Learning & Data Analytics</li>
-  <li>SQL (Advanced) Certificate (US Offense Types)</li>
+  <li>SQL (Advanced) Certificate</li>
   <li>Fundamentals of AI & ML: Introduction to Artificial Intelligence</li>
 </ul>
 
