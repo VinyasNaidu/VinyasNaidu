@@ -1,28 +1,76 @@
 <h1 align="center">Vinyas Naidu Karri</h1>
-<h2>👨‍💻 About Me</h2>
-<p align="center"> Myself, a dedicated Master's student specializing in <b>Data Analytical Engineering</b> at <b>Northeastern University</b>. My academic journey began with a strong foundation from <b>National Institute of Technology, Warangal </b>. My background includes hands-on experience in data science, machine learning, and advanced analytics, which I gained through academic projects and professional experience at ZS Associates. I have developed strong technical skills in Python, R, SQL, and data visualization tools like Tableau, and I am proficient in building predictive models and performing exploratory data analysis to drive impactful business decisions. I am particularly interested in how data science can be applied to real-world challenges, and I enjoy collaborating with cross-functional teams to deliver innovative solutions. As a problem-solver with a deep curiosity for learning, I am always seeking new opportunities to expand my knowledge and contribute to meaningful projects. </p>
-<h3 align ="center"> Have a look at my website: https://vinyasnaidu.github.io/VinyasNaidu  </h3>
-<p align="center"> My skills span across <b>Data Wrangling</b>, <b>Statistical modeling</b>, <b>Data Integration</b>, <b>Machine learning</b>, and <b>Data visualization</b> which are enriched by academic projects and my experience as a <b>Python Web Developer Intern</b>. Skilled in <b>R (dplyr, tidyr, readr, caret)</b>, <b>Python (Pandas, numpy, Scikit-learn, Tensor-flow, Seaborn)</b>, and <b>Java</b>, I excel in transforming complex data into meaningful insights. My toolkit also includes Data Analytical Tools like <b>Microsoft Office Suite</b>, <b>R Studio</b>, <b>Power BI</b>, <b>Tableau</b>, <b>Flourish</b>, and Data Engineering Tools such as <b>MySQL</b>, <b>MongoDB</b>, <b>AWS</b>, <b>Cloud SQL</b>, and <b>Snowflake</b>. These technical skills, combined with soft skills like effective communication, adaptability, problem-solving, collaboration, critical thinking, and presentation abilities, empower me to deliver comprehensive data solutions. </p>
 
-<p align="center"> In my repositories, you'll find a diverse array of projects, ranging from <b>predictive analytics models</b> and <b>customer segmentation strategies</b> for Business Analysis, <b>data quality enhancement</b> and <b>ETL pipeline optimization</b> for Data Engineering, and from complex statistical analysis and <b>machine learning models</b> for Data Science, to data visualization and trend analysis for Data Analysis. These projects underscore my ability to collaborate effectively, communicate insights clearly to stakeholders, and contribute meaningfully to data-driven decision-making processes. </p>
+## 👨‍💻 About Me
 
-<p align="center"> I welcome everyone to look into my work, where each repository stands as evidence of my constant commitment to the field of data. If you are seeking interest in collaborating, you are welcome to fork or contribute to my projects. Join me in engaging with and making valuable contributions to the ever-evolving realm of data science. Together, we can enhance our knowledge and skills in this captivating discipline. </p>
+<p align="center">
+    I am a highly motivated Master's student in <b>Data Science and Analytics</b> at <b>Northeastern University</b>, graduating in <b>December 2025</b>. I possess a strong foundation in data science fundamentals, coupled with deep expertise in <b>Machine Learning Operations (MLOps)</b>, <b>Large Language Models (LLMs)</b>, and <b>Generative AI concepts</b>.  My academic background, including a solid base from the <b>National Institute of Technology, Warangal</b>, underpins my passion for building and deploying cutting-edge AI solutions. I bring hands-on experience in building, training, deploying, and monitoring ML models, leveraging MLOps principles for scalability and reliability.
+</p>
 
-<h2>🔧 Technologies & Tools</h2>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-                                                                                                                                            
-<h2 align="left">Certificates and Extracurricular Activities</h2>
+<p align="center">
+    My core skills include:
+    *   **MLOps:**  End-to-end model lifecycle management, CI/CD pipelines, model deployment, monitoring, and infrastructure management.
+    *   **Large Language Models (LLMs):** Fine-tuning, prompt engineering, RAG implementation, and deployment of LLMs.
+    *   **Generative AI:** Model development using various generative architectures (GANs, VAEs, Transformers), and evaluation of generated content.
+    *   **Programming Languages:** Python, R, SQL
+    *   **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Hugging Face Transformers
+    *   **Cloud Platforms:** AWS, Azure, GCP
+    *   **MLOps Tools:**  MLflow, Docker, Kubernetes, Airflow
+</p>
+
+<p align="center">
+    Explore my personal website to discover more: <a href="https://vinyasnaidu.github.io/VinyasNaidu" target="_blank">https://vinyasnaidu.github.io/VinyasNaidu</a>
+</p>
+
+<p align="center">
+    My repositories showcase a wide range of projects demonstrating my expertise in Machine Learning, Deep Learning, and Generative AI, including:
+    <ul>
+        <li><b>Generative AI Model Development:</b> Building and training GANs and VAEs for image and text generation.</li>
+        <li><b>LLM Fine-tuning and Deployment:</b> Fine-tuning pre-trained LLMs for specific tasks, such as text summarization, question answering, and sentiment analysis.</li>
+        <li><b>MLOps Pipeline Implementation:</b> Creating automated CI/CD pipelines for training, evaluating, and deploying machine learning models to production.</li>
+        <li><b>Model Monitoring and Management:</b> Setting up monitoring systems to track model performance and trigger retraining when necessary.</li>
+    </ul>
+    These projects highlight my ability to translate theoretical knowledge into practical, scalable solutions.
+</p>
+
+<p align="center">
+    I invite you to explore my work, where each repository reflects my ongoing dedication to pushing the boundaries of AI. I'm actively seeking opportunities to contribute to innovative projects. Feel free to connect and collaborate!
+</p>
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/_images/logo_with_slogan.png" alt="airflow" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.mlflow.org/logos/mlflow-logo-dark.png" alt="mlflow" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
+
+## 🏆 Certificates and Extracurricular Activities
+
 <ul>
-  <li>ZS Recognise Award</li>
-  <li>Machine Learning & Data Analytics</li>
-  <li>SQL (Advanced) Certificate</li>
-  <li>Fundamentals of AI & ML: Introduction to Artificial Intelligence</li>
+  <li><b>ZS Recognise Award:</b> Acknowledgment for contributions at ZS Associates.</li>
+  <li><b>Machine Learning & Data Analytics:</b> Demonstrated proficiency in core data science concepts.</li>
+  <li><b>SQL (Advanced) Certificate:</b> Certified expertise in advanced SQL querying and database management.</li>
+  <li><b>Fundamentals of AI & ML: Introduction to Artificial Intelligence:</b> Solid foundation in AI and Machine Learning principles.</li>
 </ul>
 
-<h2 align="center">✉️ Contact Me</h2>
+## ✉️ Contact Me
+
 <p align="center">
-  📫 How to reach me: <a href="mailto:vinyasnaidukarri@gmail.com">vinyasnaidukarri@gmail.com</a>
+  📫 Feel free to reach out: <a href="mailto:vinyasnaidukarri@gmail.com">vinyasnaidukarri@gmail.com</a>
 </p>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/vinyas-naidu-karri-7928741b9/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin.com/in/vinyas-naidu-karri-7928741b9/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vinyas-naidu-karri-7928741b9/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin.com/in/vinyas-naidu-karri-7928741b9/" height="30" width="40" /></a>
 </p>
