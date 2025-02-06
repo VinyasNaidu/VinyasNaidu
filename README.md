@@ -3,18 +3,34 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-    I am a highly motivated Master's student in <b>Data Science and Analytics</b> at <b>Northeastern University</b>, graduating in <b>December 2025</b>. I possess a strong foundation in data science fundamentals, coupled with deep expertise in <b>Machine Learning Operations (MLOps)</b>, <b>Large Language Models (LLMs)</b>, and <b>Generative AI concepts</b>.  My academic background, including a solid base from the <b>National Institute of Technology, Warangal</b>, underpins my passion for building and deploying cutting-edge AI solutions. I bring hands-on experience in building, training, deploying, and monitoring ML models, leveraging MLOps principles for scalability and reliability.
+    I am a highly motivated Master's student in <b>Data Science and Analytics</b> at <b>Northeastern University</b>, graduating in <b>December 2025</b>. My expertise lies at the intersection of data science and cutting-edge AI, with a strong foundation in <b>Machine Learning Operations (MLOps)</b>, <b>Large Language Models (LLMs)</b>, and <b>Generative AI</b>. My academic background, including a solid base from the <b>National Institute of Technology, Warangal</b>, fuels my passion for building, training, deploying, and monitoring AI solutions that are scalable, reliable, and impactful.
 </p>
 
 <p align="center">
     My core skills include:
-    *   **MLOps:**  End-to-end model lifecycle management, CI/CD pipelines, model deployment, monitoring, and infrastructure management.
-    *   **Large Language Models (LLMs):** Fine-tuning, prompt engineering, RAG implementation, and deployment of LLMs.
-    *   **Generative AI:** Model development using various generative architectures (GANs, VAEs, Transformers), and evaluation of generated content.
-    *   **Programming Languages:** Python, R, SQL
-    *   **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Hugging Face Transformers
-    *   **Cloud Platforms:** AWS, Azure, GCP
-    *   **MLOps Tools:**  MLflow, Docker, Kubernetes, Airflow
+    <ul>
+        <li>
+            <b>MLOps:</b>  End-to-end model lifecycle management, CI/CD pipelines, model deployment (using tools like Docker and Kubernetes), monitoring, and infrastructure management (AWS, Azure, GCP).
+        </li>
+        <li>
+            <b>Large Language Models (LLMs):</b> Fine-tuning, prompt engineering, RAG (Retrieval-Augmented Generation) implementation, and deployment of LLMs.
+        </li>
+        <li>
+            <b>Generative AI:</b> Model development using various generative architectures (GANs, VAEs, Transformers), and evaluation of generated content.
+        </li>
+        <li>
+            <b>Programming Languages:</b> Python, R, SQL
+        </li>
+        <li>
+            <b>Frameworks & Libraries:</b> TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Hugging Face Transformers
+        </li>
+        <li>
+            <b>Cloud Platforms:</b> AWS, Azure, GCP
+        </li>
+        <li>
+            <b>MLOps Tools:</b> MLflow, Docker, Kubernetes, Airflow
+        </li>
+    </ul>
 </p>
 
 <p align="center">
@@ -24,16 +40,16 @@
 <p align="center">
     My repositories showcase a wide range of projects demonstrating my expertise in Machine Learning, Deep Learning, and Generative AI, including:
     <ul>
-        <li><b>Generative AI Model Development:</b> Building and training GANs and VAEs for image and text generation.</li>
-        <li><b>LLM Fine-tuning and Deployment:</b> Fine-tuning pre-trained LLMs for specific tasks, such as text summarization, question answering, and sentiment analysis.</li>
-        <li><b>MLOps Pipeline Implementation:</b> Creating automated CI/CD pipelines for training, evaluating, and deploying machine learning models to production.</li>
-        <li><b>Model Monitoring and Management:</b> Setting up monitoring systems to track model performance and trigger retraining when necessary.</li>
+        <li><b>Generative AI Model Development:</b> Building and training GANs and VAEs for image and text generation. For example, creating a GAN that generates realistic images of faces.</li>
+        <li><b>LLM Fine-tuning and Deployment:</b> Fine-tuning pre-trained LLMs (like BERT, GPT) for specific tasks, such as text summarization, question answering, and sentiment analysis. Deploying these models via API endpoints.</li>
+        <li><b>MLOps Pipeline Implementation:</b> Creating automated CI/CD pipelines using tools like GitHub Actions or Jenkins for training, evaluating, and deploying machine learning models to production.  Including model versioning and automated testing.</li>
+        <li><b>Model Monitoring and Management:</b> Setting up comprehensive monitoring systems to track model performance (accuracy, latency) in real-time and trigger retraining pipelines when performance degrades.</li>
     </ul>
     These projects highlight my ability to translate theoretical knowledge into practical, scalable solutions.
 </p>
 
 <p align="center">
-    I invite you to explore my work, where each repository reflects my ongoing dedication to pushing the boundaries of AI. I'm actively seeking opportunities to contribute to innovative projects. Feel free to connect and collaborate!
+    I invite you to explore my work, where each repository reflects my ongoing dedication to pushing the boundaries of AI. I'm actively seeking opportunities to contribute and collaborate.
 </p>
 
 ## 🛠️ Technologies & Tools
