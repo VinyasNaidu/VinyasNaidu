@@ -3,7 +3,17 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-    I am a highly motivated Master's student in <b>Data Science and Analytics</b> at <b>Northeastern University</b>, graduating in <b>December 2025</b>. My expertise lies at the intersection of data science and cutting-edge AI, with a strong foundation in <b>Machine Learning Operations (MLOps)</b>, <b>Large Language Models (LLMs)</b>, and <b>Generative AI</b>. My academic background, including a solid base from the <b>National Institute of Technology, Warangal</b>, fuels my passion for building, training, deploying, and monitoring AI solutions that are scalable, reliable, and impactful.
+    I am a highly motivated Master's student in <b>Data Science and Analytics</b> at <b>Northeastern University</b>, graduating in <b>December 2025</b>.  With <b>2 years of professional experience at ZS Associates</b>, I bring a strong foundation in data science and proven ability to deliver impactful results. My expertise lies at the intersection of data science and cutting-edge AI, with a strong skillset in <b>Machine Learning Operations (MLOps)</b>, <b>Large Language Models (LLMs)</b>, and <b>Generative AI</b>.  My academic background, including a solid base from the <b>National Institute of Technology, Warangal</b>, complements my practical experience and fuels my passion for building, training, deploying, and monitoring AI solutions that are scalable, reliable, and impactful.
+</p>
+
+<p align="center">
+    At <b>ZS Associates</b>, I was responsible for:
+    <ul>
+        <li>Leading data science projects for Fortune 500 clients in the healthcare industry.</li>
+        <li>Developing and deploying machine learning models to improve therapy adherence and increase market share.</li>
+        <li>Automating data pipelines and reports using PySpark and SQL to reduce manual effort.</li>
+        <li>Collaborating with stakeholders to define project goals and communicate results.</li>
+    </ul>
 </p>
 
 <p align="center">
