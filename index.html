@@ -40,7 +40,7 @@
           <li><a class="nav-link active" href="#header">Home</a></li>
           <li><a class="nav-link" href="#about">About</a></li>
           <li><a class="nav-link" href="#resume">Resume</a></li>
-          <li><a class="nav-link" href="#projects">Projects</a></li>
+          <li><a class="nav-link" href="assets/js/project.html" onclick="location.href='#projects';" target="_blank">Projects</a></li>
            <li><a class="nav-link" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -162,40 +162,58 @@
   </section><!-- End About Section -->
 
  <!-- ======= Projects Section ======= -->
- <section id="projects" class="services">
-
-    <div class="projects-container">
+<section id="projects" class="projects section-bg">
+    <div class="container">
       <div class="section-title">
           <h2>Projects</h2>
-          <p>Check out some of my projects</p>
+          <p>Check out some of my projects - more details on the Projects page</p>
       </div>
-      <div class="project">
-          <a href="https://github.com/ManoharVit/Budget-and-Financials-of-MBTA" target="_blank">
-              <img src="path_to_thumbnail1.jpg" alt="Budget and Financials">
-              <p><b>MBTA Budget Analysis:</b> Leveraged SQL, NoSQL, and MongoDB to analyze MBTA budget data.</p>
-          </a>
-      </div>
-      <div class="project">
-          <a href="https://github.com/ManoharVit/Budget-and-Financials-of-MBTA" target="_blank">
-              <img src="path_to_thumbnail2.jpg" alt="Human Activity Recognition">
-              <p><b>Human Activity Recognition:</b> Performed time series analysis on sensor data to identify human activities.</p>
-          </a>
-      </div>
-      <div class="project">
-        <a href="#" target="_blank"> <!-- Replace # with a link to your repo -->
-        <img src="path_to_thumbnail3.jpg" alt="Crowd Sourced Mapping">
-          <p><b>Crowd Sourced Mapping:</b> Implementing statistical learning techniques for land cover classification.</p>
-          </a>
-      </div>
-      <div class="project">
-          <a href="#" target="_blank">  <!-- Replace # with a link to your repo -->
-           <img src="path_to_thumbnail4.jpg" alt="Personality Prediction Test">
-            <p><b>Personality Prediction Test:</b> Employing various machine learning models for personality prediction.</p>
-          </a>
-      </div>
-  </div>
 
-  </section>
+      <div class="row">
+        <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
+          <div class="icon-box">
+            <a href="https://github.com/ManoharVit/Budget-and-Financials-of-MBTA" target="_blank">
+              <img src="assets/img/project1_thumbnail.jpg" class="img-fluid" alt="MBTA Budget Analysis">
+              <h4>MBTA Budget Analysis</h4>
+              <p>Leveraged SQL, NoSQL, and MongoDB to analyze MBTA budget data. Addressed profit gaps and identified areas for improvement.</p>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
+          <div class="icon-box">
+            <a href="https://github.com/ManoharVit/Budget-and-Financials-of-MBTA" target="_blank">
+              <img src="assets/img/project2_thumbnail.jpg" class="img-fluid" alt="Human Activity Recognition">
+              <h4>Human Activity Recognition</h4>
+              <p>Performed time series analysis on sensor data to identify various human activities. Created scatter plot visuals and calculated network topology metrics.</p>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4">
+          <div class="icon-box">
+            <a href="#" target="_blank">  <!-- Replace # with a link to your repo -->
+              <img src="assets/img/project3_thumbnail.jpg" class="img-fluid" alt="Crowd Sourced Mapping">
+              <h4>Crowd Sourced Mapping</h4>
+              <p>Implementing statistical learning techniques for land cover classification.</p>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4">
+          <div class="icon-box">
+            <a href="#" target="_blank">  <!-- Replace # with a link to your repo -->
+              <img src="assets/img/project4_thumbnail.jpg" class="img-fluid" alt="Personality Prediction Test">
+              <h4>Personality Prediction Test</h4>
+              <p>Employing various machine learning models for personality prediction based on test responses.</p>
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+</section>
 
 <section id="resume" class="resume">
 
