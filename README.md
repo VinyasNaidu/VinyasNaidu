@@ -1,60 +1,97 @@
-# Hi 👋, I'm Vinyas Naidu Karri  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VinyasNaidu&label=Profile%20views&color=0e75b6&style=flat" alt="VinyasNaidu" /> </p>
 
-🚀 Data Engineering | Data Science | Cloud | Analytics  
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinyasnaidukarri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-VinyasNaidu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-📍 Based in Boston, MA | 🎓 Northeastern University  
+## Hi, I'm **Vinyas Naidu Karri**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-0078D4?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML/AI-FF9900?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Technologies-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-Pipelines-E34F26?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
 
----
-
-### 🔹 About Me
-- 🎯 Passionate about building **ETL pipelines, data platforms, and AI solutions** that solve real-world problems  
-- 🔭 Currently working on: **Network Security System** — an end-to-end ML + ETL pipeline using Python, MongoDB Atlas & Docker, focused on data ingestion, validation, transformation, and deployment. :contentReference[oaicite:0]{index=0}  
-- 🌱 Learning: Deepening my skills in **RNNs & LSTMs, Transformer architectures, MLOps workflows, and cloud-native data engineering** :contentReference[oaicite:1]{index=1}  
-- 📊 Interested in: Healthcare & Life Sciences Data, Cybersecurity, Natural Language Processing, and applying AI in high-impact domains  
-
----
-
-### ⚡ Skills & Tools
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
-
-**Cloud & Data:**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Databricks](https://img.shields.io/badge/-Databricks-EF3B2D?logo=databricks&logoColor=white)  
-
-**ETL / Data Pipelines & Tools:**  
-![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white)  
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)  
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)  
-
-**Machine Learning / Deep Learning:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-F7931E?logo=scikit-learn&logoColor=white)  
-
-**BI & Visualization Tools:**  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black)  
+**About Me**  
+- 👍 Over **3+ years of industry experience**, working in data engineering, analytics, and cloud-based solutions  
+- 🏢 Currently at **ZS Associates**, bringing experience building scalable pipelines and delivering analytics in production  
+- 🎓 Graduated / affiliated with **Northeastern University**  
 
 ---
 
-### 📌 Featured Projects
-- [Network Security System](https://github.com/VinyasNaidu/Network_Security_System) — Developed and deployed a full ML + ETL pipeline (Python + Docker + MongoDB Atlas). Handles data ingestion, validation, transformation, real-time / batch processing. :contentReference[oaicite:2]{index=2}  
-- [RNNs & LSTMs Projects](https://github.com/VinyasNaidu) — Exploring sequence modeling & forecasting using recurrent neural networks, applied to text / stock market / NLP tasks. :contentReference[oaicite:3]{index=3}  
-- [Transformer From Scratch](https://github.com/VinyasNaidu) — Built a transformer architecture implementation (using TensorFlow) to deepen understanding of attention mechanisms and architectures. :contentReference[oaicite:4]{index=4}  
+## **Currently Working On**
+- **Project:** [Network Security System](https://github.com/VinyasNaidu/Network_Security_System)  
+  - An end-to-end ML + ETL pipeline using Python, MongoDB Atlas, and Docker. Covers data ingestion, validation, transformation, and model deployment  
 
 ---
 
-### 📈 GitHub Stats
-![Vinyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinyasNaidu&show_icons=true&theme=radical)
+## **Currently Learning**
+- Deep learning & transformer architectures (RNN, LSTM, Transformers)  
+- MLOps and CI/CD for ML pipelines  
+- Advanced cloud engineering: cost optimization, infrastructure as code, etc.  
 
 ---
 
-### 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/VinyasNaidu)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinyasnaidukarri/)  
+### 🔹 Featured Projects
 
-📧 Email: *your.email@northeastern.edu*  
+- [Network Security System](https://github.com/VinyasNaidu/Network_Security_System) — full ML + ETL pipeline + Docker + data validation  
+- [Project Title 2](https://github.com/VinyasNaidu/your-project2) — short description of what you built there  
+- [Project Title 3](https://github.com/VinyasNaidu/your-project3) — short description  
+
+---
+
+### Skills & Tools  
+
+#### **Languages**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />  
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />  
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+#### **Cloud & Data Warehousing**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+</p>
+
+#### **ETL, Data Pipelines & Frameworks**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+#### **Machine Learning & AI**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Supervised%20Learning-0078D4?style=flat-square&logo=scikitlearn&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-008000?style=flat-square&logo=scikitlearn&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF4B00?style=flat-square&logo=tensorflow&logoColor=white" />  
+  <img src="https://img.shields.io/badge/NLP-DAA520?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+---
+
+### GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinyasNaidu&show_icons=true&theme=light" alt="GitHub Stats for VinyasNaidu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinyasNaidu&theme=light" alt="GitHub Streak for VinyasNaidu" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinyasNaidu&layout=compact&theme=light" alt="Top Languages by VinyasNaidu" />
+</p>
+
+---
+
+### Connect with Me  
+
+📧 **Email:** your.email@northeastern.edu  
+🔗 **LinkedIn:** [linkedin.com/in/vinyasnaidukarri](https://www.linkedin.com/in/vinyasnaidukarri/)  
