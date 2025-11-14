@@ -93,5 +93,5 @@
 
 ### Connect with Me  
 
-📧 **Email:** your.email@northeastern.edu  
+📧 **Email:** karri.vi@northeastern.edu  
 🔗 **LinkedIn:** [linkedin.com/in/vinyasnaidukarri](https://www.linkedin.com/in/vinyasnaidukarri/)  
